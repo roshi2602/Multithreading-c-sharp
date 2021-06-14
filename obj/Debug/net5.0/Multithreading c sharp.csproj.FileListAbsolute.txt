@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\bin\Debug\net5.0\Multithreading c sharp.exe
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\bin\Debug\net5.0\Multithreading c sharp.deps.json
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\bin\Debug\net5.0\Multithreading c sharp.runtimeconfig.json
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\bin\Debug\net5.0\Multithreading c sharp.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\bin\Debug\net5.0\Multithreading c sharp.dll
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\bin\Debug\net5.0\ref\Multithreading c sharp.dll
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\bin\Debug\net5.0\Multithreading c sharp.pdb
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\obj\Debug\net5.0\Multithreading c sharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\obj\Debug\net5.0\Multithreading c sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\obj\Debug\net5.0\Multithreading c sharp.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\obj\Debug\net5.0\Multithreading c sharp.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\obj\Debug\net5.0\Multithreading c sharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\obj\Debug\net5.0\Multithreading c sharp.dll
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\obj\Debug\net5.0\ref\Multithreading c sharp.dll
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\obj\Debug\net5.0\Multithreading c sharp.pdb
+C:\Users\lenovo\source\repos\Multithreading c sharp\Multithreading c sharp\obj\Debug\net5.0\Multithreading c sharp.genruntimeconfig.cache
